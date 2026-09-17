@@ -7,5 +7,6 @@ This repository contains my Python learning projects and practice programs.
 - Calculator
 - Caesar Cipher
 - Password Generator
+- Expense Tracker
 
 More projects will be added as I continue learning Python.
